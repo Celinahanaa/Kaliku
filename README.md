@@ -16,25 +16,24 @@ Website untuk layanan pencatatan keuangan yang efektif dan efisien. Terdiri dari
 ![alt text](https://github.com/Celinahanaa/Kaliku/blob/main/img/ss%20edit%20pemasukan.png?raw=true)
 
 
-## Sistem
-- XAMPP
+# Cara Instal
+**1. Clone dan instal di file kamu**
 
-
-### Cara Instal
-1. Clone dan instal di file kamu
 `$ git clone https://github.com/Celinahanaa/Kaliku.git`
 
 **2. Buat database baru (kalikuwebphp) di XAMPP phpmyadmin**
-lalu import https://github.com/Celinahanaa/Kaliku/blob/main/database/kalikuwebphp.sql
+
+lalu import `kalikuwebphp.sql` di folder `database`
 
 **3. Sesuaikan konfigurasi pengaturan database seperti host, user, password, dan nama database**
+
 $hostname = "localhost:3306";
 $username = "root";
 $password = "";
 $database_name = "kalikuwebphp";
 
 
-### Cara Menjalankan
+# Cara Menjalankan
 **1. Buka browser**
 ketik http://localhost/kaliku.com/
 
