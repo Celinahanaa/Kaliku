@@ -3,4 +3,4 @@ Website untuk layanan pencatatan keuangan yang efektif dan efisien. Terdiri dari
 
 # Tampilan Website
 **Halaman Index**
-(https://github.com/Celinahanaa/Kaliku/blob/main/img/ss%20index.png)
+![alt text](https://github.com/Celinahanaa/Kaliku/blob/main/img/ss%20index.png?raw=true)
