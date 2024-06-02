@@ -20,4 +20,7 @@ Website untuk layanan pencatatan keuangan yang efektif dan efisien. Terdiri dari
 - XAMPP
 
 # Cara Instal
-Clone 
+**1. Clone dan instal di file kamu**
+git clone https://github.com/Celinahanaa/Kaliku.git
+**2. Buka XAMPP phpmyadmin**
+import 
