@@ -13,4 +13,4 @@ Website untuk layanan pencatatan keuangan yang efektif dan efisien. Terdiri dari
 **Halaman Laporan**
 ![alt text](https://github.com/Celinahanaa/Kaliku/blob/main/img/ss%20laporan.png?raw=true)
 **Halaman Edit Pemasukan**
-![alt text](https://github.com/Celinahanaa/Kaliku/blob/main/img/ss%20edit20%pemasukan.png?raw=true)
+![alt text](https://github.com/Celinahanaa/Kaliku/blob/main/img/ss%20edit%20pemasukan.png?raw=true)
