@@ -37,3 +37,6 @@ $database_name = "kalikuwebphp";
 **1. Buka browser**
 ketik http://localhost/kaliku.com/
 
+
+# Demo Website - Kaliku
+https://youtu.be/bQDVbzYaWEw
