@@ -16,6 +16,10 @@ Website untuk layanan pencatatan keuangan yang efektif dan efisien. Terdiri dari
 ![alt text](https://github.com/Celinahanaa/Kaliku/blob/main/img/ss%20edit%20pemasukan.png?raw=true)
 
 
+# Demo Website - Kaliku
+https://youtu.be/bQDVbzYaWEw
+
+
 # Cara Instal
 **1. Clone dan instal di file kamu**
 
@@ -36,7 +40,3 @@ $database_name = "kalikuwebphp";
 # Cara Menjalankan
 **1. Buka browser**
 ketik http://localhost/kaliku.com/
-
-
-# Demo Website - Kaliku
-https://youtu.be/bQDVbzYaWEw
